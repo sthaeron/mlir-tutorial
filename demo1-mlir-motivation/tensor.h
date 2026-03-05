@@ -14,6 +14,7 @@
 #pragma once
 
 #include <vector>
+#include <cstddef>
 
 /**
  * @brief Basic 2D static-shaped tensor class.
